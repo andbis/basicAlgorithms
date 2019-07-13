@@ -1,4 +1,5 @@
 Contact me to get the data
+For introductory assignment in Data Mining
 
 Algorithms used:
 	Apriori - frequent pattern mining
